@@ -1,0 +1,16 @@
+{
+  "required_api_version": "^2.0.0",
+  "name": "Brave Bookmarks",
+  "description": "Search and launch Brave bookmarks",
+  "developer_name": "Samuel CHICHA",
+  "icon": "images/brave-icon.png",
+  "preferences": [
+    {
+      "id": "brave_bookmarks",
+      "type": "keyword",
+      "name": "Brave Bookmarks",
+      "description": "Find in Brave Bookmarks",
+      "default_value": "cb"
+    }
+  ]
+}
